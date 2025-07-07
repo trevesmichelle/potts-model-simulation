@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter checkpoints (if any)
+.ipynb_checkpoints/
+
+# Results and generated data
+results/
+results_highres/
+figures/
+peak_data/
+peak_data_highres/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environments
+.venv/
+env/
+venv/
+
+# Logs or temp
+*.log
+*.tmp
