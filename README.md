@@ -87,7 +87,7 @@ The project is designed to run in two stages:
 
 ## Dependencies
 Install required packages with (Python 3.8 or higher is recommended.):
-`bash
+```bash
 pip install -r requirements.txt
 
 ---
